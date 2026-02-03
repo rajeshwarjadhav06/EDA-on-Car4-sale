@@ -1,0 +1,759 @@
+Car_name,Car_company,Car_year,Car_price,Car_city,Car_location,Car_owner,Fuel_type
+Maruti Suzuki Dzire Zxi,Maruti Suzuki,2018,575000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Ciaz VDI+ SHVS,Maruti Suzuki,2015,475000,Hyderabad,Telangana,Second Owner,Not specified
+Honda Brio S mt,Honda,2012,165000,Pune,Maharashtra,Single Owner,Not specified
+Honda City VMT,Honda,2016,550000,Noida,Uttar Pradesh,Single Owner,Not specified
+Isuzu D-Max S-Cab S cab z,Isuzu,2024,1500000,Barpeta,Assam,Single Owner,Not specified
+Kia Carens g1.5 6MT prestige o 7,Kia,2024,1150000,Ariyalur,Tamil Nadu,Single Owner,Not specified
+Mercedes-Benz GLE,Mercedes-Benz,2020,5000000,Varanasi,Uttar Pradesh,Single Owner,Not specified
+Kia Sonet HTX 1.0 TURBO 7DCT,Kia,2024,1150000,Hyderabad,Telangana,Second Owner,Not specified
+Maruti Suzuki Baleno Delta 1.2,Maruti Suzuki,2019,550000,Thane,Maharashtra,Second Owner,Not specified
+Renault Kwid Petrol,Renault,2019,325000,Thrissur,Kerala,Second Owner,petrol
+Tata Hexa XTA,Tata,2019,750000,Valsad,Gujarat,Single Owner,Not specified
+Hyundai Alcazar Signature dct,Hyundai,2024,1700000,Gurdaspur,Punjab,Single Owner,Not specified
+Tata Nexon XZ,Tata,2019,650000,Nagpur,Maharashtra,Single Owner,Not specified
+Hyundai Creta SX (O),Hyundai,2023,1600000,Ayodhya,Uttar Pradesh,Single Owner,Not specified
+Kia Seltos X-Line,Kia,2022,1420000,Mumbai,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Swift VXI optional AMT,Maruti Suzuki,2025,780000,Palghar,Maharashtra,Single Owner,Not specified
+Ford Freestyle Titanium Petrol,Ford,2018,495000,Bangalore,Karnataka,Single Owner,petrol
+Hyundai Verna Petrol,Hyundai,2018,525000,New Delhi,Delhi,Single Owner,petrol
+Hyundai Creta Top Variant (Manual),Hyundai,2023,1600000,Hisar,Haryana,Single Owner,Not specified
+Mercedes-Benz GLA 200 CDI style,Mercedes-Benz,2014,1400000,Chennai,Tamil Nadu,Single Owner,Not specified
+Tata Curvv Curvv pure+TCA DCA,Tata,2025,1150000,Mumbai,Maharashtra,Single Owner,Not specified
+Hyundai Elite i20 1.2 Asta,Hyundai,2015,365000,Etah,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Swift ZXI AMT,Maruti Suzuki,2022,775000,Hyderabad,Telangana,Single Owner,Not specified
+Hyundai Verna 1.4 diesel ex,Hyundai,2019,800000,Bangalore,Karnataka,Second Owner,diesel
+Jeep Compass S Petrol AT,Jeep,2021,1500000,Noida,Uttar Pradesh,Single Owner,petrol
+Honda Jazz Top Model,Honda,2013,199000,Vadodara,Gujarat,Single Owner,Not specified
+Datsun Redi-GO Hatch back,Datsun,2018,160000,Bangalore,Karnataka,Single Owner,Not specified
+Ford Figo Titanium,Ford,2010,150000,Ghaziabad,Uttar Pradesh,Single Owner,Not specified
+Toyota Urban Cruiser Hyryder Model V AT Hybrid,Toyota,2024,1900000,Bangalore,Karnataka,Single Owner,Not specified
+BMW 5-Series 525,BMW,2008,547000,Bangalore,Karnataka,Single Owner,Not specified
+Ford Figo Zxi Diesel,Ford,2013,199000,Chennai,Tamil Nadu,Single Owner,diesel
+Audi Q3 Petrol,Audi,2018,2500000,Bangalore,Karnataka,Single Owner,petrol
+Toyota Fortuner 2.8L 2WD MT DSL,Toyota,2021,2650000,New Delhi,Delhi,Single Owner,Not specified
+Tata Tiago XT LR EV,Tata,2025,650000,Virudhunagar,Tamil Nadu,Second Owner,Not specified
+Honda Civic 1.8S,Honda,2007,250000,Bangalore,Karnataka,Single Owner,Not specified
+Honda WR-V VX MT IVTEC,Honda,2017,575000,Hyderabad,Telangana,Second Owner,Not specified
+Mahindra  Scorpio N,Mahindra,2022,2100000,Shahdol,Madhya Pradesh,Single Owner,Not specified
+Maruti Suzuki Dzire ZDI,Maruti Suzuki,2013,415000,Kolhapur,Maharashtra,Second Owner,Not specified
+Honda City 4th Generation V MT Petrol,Honda,2021,835000,Chennai,Tamil Nadu,Single Owner,petrol
+Honda Civic VX,Honda,2020,1150000,Dehradun,Uttarakhand,Single Owner,Not specified
+Maruti Suzuki Ritz Vxi,Maruti Suzuki,2011,230000,Tiruchirappalli,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Celerio Automatic,Maruti Suzuki,2016,430000,Bangalore,Karnataka,Single Owner,Not specified
+Kia Carens Prestige,Kia,2023,1020000,Meerut,Uttar Pradesh,Second Owner,Not specified
+Chevrolet Beat PS Diesel,Chevrolet,2011,250000,Nagaur,Rajasthan,Single Owner,diesel
+Tata Nexon xz+ dual tone,Tata,2018,620000,Amritsar,Punjab,Single Owner,Not specified
+Renault Kiger AMT,Renault,2021,600000,Bangalore,Karnataka,Single Owner,Not specified
+Kia Carens CARENS D1.5 IMT MDRIVE7,Kia,2023,1150000,Solapur,Maharashtra,Single Owner,Not specified
+Mahindra XUV 500 W6,Mahindra,2017,785000,Bangalore,Karnataka,Single Owner,Not specified
+Volkswagen Taigun TSI,Volkswagen,2024,1200000,Gurgaon,Haryana,Single Owner,Not specified
+Kia Seltos HTX,Kia,2019,790000,Gurgaon,Haryana,Single Owner,Not specified
+Ford Ecosport 1.5 TDI Diesel Ambiente,Ford,2019,475000,Gurgaon,Haryana,Second Owner,diesel
+Ford Fiesta Diesel,Ford,2009,215000,Bangalore,Karnataka,Single Owner,diesel
+Renault Kwid Rxt,Renault,2016,180000,Gorakhpur,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza ZDI,Maruti Suzuki,2017,700000,Ernakulam,Kerala,Second Owner,Not specified
+MG Hector Hector PE 1.5 DCT Sharp,MG,2019,1050000,North Kannada,Karnataka,Second Owner,Not specified
+Maruti Suzuki Swift tour S,Maruti Suzuki,2024,685000,Bangalore,Karnataka,Single Owner,Not specified
+Toyota Innova gx-8str,Toyota,2008,200000,Lucknow,Uttar Pradesh,Single Owner,Not specified
+Toyota Innova 2.5g,Toyota,2012,450000,Hyderabad,Telangana,Second Owner,Not specified
+Mercedes-Benz E-Class E350CDI,Mercedes-Benz,2010,400000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Ertiga Vxi,Maruti Suzuki,2024,980000,Warangal,Telangana,Second Owner,Not specified
+Mercedes-Benz C-Class C200,Mercedes-Benz,2024,5250000,Hyderabad,Telangana,Single Owner,Not specified
+Ford Ecosport Trend,Ford,2018,750000,Bangalore,Karnataka,Second Owner,Not specified
+Hyundai Xcent BASE ABS,Hyundai,2016,355000,Nadia,West Bengal,Single Owner,Not specified
+Maruti Suzuki S-Cross Zeta,Maruti Suzuki,2018,520000,Dehradun,Uttarakhand,Second Owner,Not specified
+Hyundai Elite i20 Asta diesel,Hyundai,2017,450000,Visakhapatnam,Andhra Pradesh,Second Owner,diesel
+Honda Jazz IV-Tech,Honda,2010,200000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Creta Creta sx petrol automatic,Hyundai,2020,1200000,Nagpur,Maharashtra,Single Owner,petrol
+Hyundai Venue 1.5 CRDi s plus,Hyundai,2022,927000,Tiruvannamalai,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Wagon R Lx,Maruti Suzuki,2006,50000,Pune,Maharashtra,Second Owner,Not specified
+Renault Kwid RXT optional MT 1.0,Renault,2020,450000,Rajauri,Jammu & Kashmir,Single Owner,Not specified
+Toyota Fortuner,Toyota,2021,2600000,Ghaziabad,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Alto K10,Maruti Suzuki,2013,220000,Bangalore,Karnataka,Second Owner,Not specified
+Hyundai i20,Hyundai,2012,299000,Bangalore,Karnataka,Second Owner,Not specified
+Maruti Suzuki Swift ZXI,Maruti Suzuki,2009,180000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Alto ALTO 800 OPT,Maruti Suzuki,2021,380000,Reasi,Jammu & Kashmir,Single Owner,Not specified
+Kia Seltos GTX PLUS DCT 1.4 PETROL,Kia,2022,1750000,Bangalore,Karnataka,Second Owner,petrol
+BMW X1 REGISTERED UPTO 2030,BMW,2030,475000,Hyderabad,Telangana,Second Owner,Not specified
+Honda Jazz V,Honda,2015,450000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki XL6 Zeta,Maruti Suzuki,2021,980000,Hosur,Tamil Nadu,Single Owner,Not specified
+Hyundai Aura 2nd top model,Hyundai,2020,450000,Gautam Buddha Nagar,Uttar Pradesh,Single Owner,Not specified
+Ford Ecosport Trendline,Ford,2014,465000,Kolhapur,Maharashtra,Second Owner,Not specified
+Maruti Suzuki Ertiga Smart Hybrid ZXI Plus,Maruti Suzuki,2021,1050000,Bangalore,Karnataka,Single Owner,Not specified
+Mahindra XUV 3XO AX7 PG MT AE,Mahindra,2025,1419000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Manza Aura plus Safire BS IV,Tata,2011,260000,Guwahati,Assam,Single Owner,Not specified
+Hyundai i20 Asta,Hyundai,2022,800000,Chennai,Tamil Nadu,Single Owner,Not specified
+Hyundai Creta Sx1.6,Hyundai,2015,500000,Yamunanagar,Haryana,Single Owner,Not specified
+Mahindra Xylo D2bs3,Mahindra,2009,1500000,Rangareddy,Telangana,Single Owner,Not specified
+Kia Seltos G1.4 7DCT GTX PLUS,Kia,2020,1500000,Bangalore,Karnataka,Second Owner,Not specified
+Mahindra XUV300 W6 amt petrol,Mahindra,2023,800000,Valsad,Gujarat,Single Owner,petrol
+Hyundai i10 Kappa 1.2,Hyundai,2012,120000,South Delhi,Delhi,Single Owner,Not specified
+Kia Seltos HTX IVT 1.5G automatic petrol,Kia,2019,965000,Bangalore,Karnataka,Single Owner,petrol
+Volkswagen Polo Comfortline,Volkswagen,2019,700000,Bangalore,Karnataka,Single Owner,Not specified
+MG Hector Sharp2.0,MG,2021,1500000,Varanasi,Uttar Pradesh,Single Owner,Not specified
+Mercedes-Benz CLA 200d urban class,Mercedes-Benz,2018,1400000,Vadodara,Gujarat,Single Owner,Not specified
+Maruti Suzuki S-Cross ZETA,Maruti Suzuki,2021,750000,Chennai,Tamil Nadu,Second Owner,Not specified
+Tata Tigor XZPLUS,Tata,2020,400000,Gautam Buddha Nagar,Uttar Pradesh,Single Owner,Not specified
+Citroen C3 Aircross Max DT 1.2Turbo 5S,Citroen,2023,900000,Anantapur,Andhra Pradesh,Single Owner,Not specified
+Jeep Meridian 4x2 MT Limited,Jeep,2022,3000000,Coimbatore,Tamil Nadu,Single Owner,Not specified
+Kia Carens Prestiege,Kia,2022,1090000,Pune,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Swift Dezair vxi,Maruti Suzuki,2014,250000,New Delhi,Delhi,Single Owner,Not specified
+Hyundai Creta SX (o),Hyundai,2017,700000,Ahmedabad,Gujarat,Single Owner,Not specified
+Tata Nexon XZ PLUS DIESEL,Tata,2023,1025000,Bikaner,Rajasthan,Single Owner,diesel
+Honda Amaze Diesel,Honda,2018,700000,Jammu,Jammu & Kashmir,Second Owner,diesel
+Maruti Suzuki S-Cross Zeta 1.3 D MT,Maruti Suzuki,2018,585000,Ahmedabad,Gujarat,Single Owner,Not specified
+Maruti Suzuki Swift LXI,Maruti Suzuki,2018,450000,Madurai,Tamil Nadu,Single Owner,Not specified
+Honda Brio Petrol,Honda,2012,140000,Gurgaon,Haryana,Single Owner,petrol
+BMW X1 Sdrive 20D Xline,BMW,2020,3000000,Chennai,Tamil Nadu,Second Owner,Not specified
+Tata Tiago XE,Tata,2020,300000,Chennai,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki S-Presso Vxi+ AMT,Maruti Suzuki,2021,430000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Wagon R Cng,Maruti Suzuki,2012,300000,Faridabad,Haryana,Second Owner,Not specified
+Volkswagen Polo Highline,Volkswagen,2013,375000,Chennai,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki 1000 Alto k10,Maruti Suzuki,1000,450000,Gurgaon,Haryana,Second Owner,Not specified
+Mahindra XUV300 W4,Mahindra,2020,550000,Ahmedabad,Gujarat,Second Owner,Not specified
+Tata Safari XZA+O AMT,Tata,2023,2200000,Pimpri-Chinchwad,Maharashtra,Second Owner,Not specified
+Mahindra Scorpio N ,Mahindra,2023,1850000,Bangalore,Karnataka,Second Owner,Not specified
+Mahindra  TUV 300 T8 AMT,Mahindra,2017,475000,Meerut,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Baleno Delta AGS,Maruti Suzuki,2023,850000,Bangalore,Karnataka,Single Owner,Not specified
+Toyota Innova Crysta GX,Toyota,2024,2000000,Pune,Maharashtra,Single Owner,Not specified
+MG Hector Plus Sharp Diesel Dual Tone 6 Seater,MG,2022,1800000,Bangalore,Karnataka,Single Owner,diesel
+Maruti Suzuki Celerio Vxi Amt,Maruti Suzuki,2015,300000,Bangalore,Karnataka,Second Owner,Not specified
+Hyundai Creta 1.6 VTVT,Hyundai,2019,900000,Mumbai,Maharashtra,Single Owner,Not specified
+Kia Seltos GTX 1.4 AT,Kia,2019,1150000,Bangalore,Karnataka,Single Owner,Not specified
+Jeep Compass Limited 4X4 Diesel,Jeep,2017,1100000,Jhunjhunu,Rajasthan,Single Owner,diesel
+Honda Amaze Ivtc s,Honda,2017,400000,East Delhi,Delhi,Second Owner,Not specified
+Maruti Suzuki Eeco CNG,Maruti Suzuki,2022,53000,Hyderabad,Telangana,Second Owner,Not specified
+Hyundai Creta Sx(o),Hyundai,2017,950000,Bangalore,Karnataka,Second Owner,Not specified
+Maruti Suzuki Ciaz Alpha,Maruti Suzuki,2018,550000,Noida,Uttar Pradesh,Single Owner,Not specified
+MG ZS EV Exclusive,MG,2023,1500000,Bangalore,Karnataka,Single Owner,Not specified
+Toyota Innova Hycross Vx 7str hybrid,Toyota,2023,2500000,Hyderabad,Telangana,Single Owner,Not specified
+Ford Aspire 1.5 titanium desal,Ford,2018,330000,Ahmedabad,Gujarat,Single Owner,Not specified
+Toyota Etios GD,Toyota,2016,320000,Gautam Buddha Nagar,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Ciaz Zxi,Maruti Suzuki,2016,375000,South West Delhi,Delhi,Single Owner,Not specified
+Tata Harrier XZPLUS,Tata,2020,1200000,Pune,Maharashtra,Second Owner,Not specified
+Tata Tiago XZ,Tata,2020,400000,Noida,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Eeco CNG TOUR,Maruti Suzuki,2024,480000,Ahmedabad,Gujarat,Second Owner,Not specified
+Hyundai i10 Sports,Hyundai,2014,225000,Rewari,Haryana,Single Owner,Not specified
+Honda Amaze 1.2L IVTEC S,Honda,2014,210000,Mumbai,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Baleno delta,Maruti Suzuki,2022,575000,Hooghly,West Bengal,Single Owner,Not specified
+Maruti Suzuki Wagon R Vxi 1.2,Maruti Suzuki,2020,440000,Navi Mumbai,Maharashtra,Single Owner,Not specified
+Chevrolet Beat PS PETROL,Chevrolet,2014,150000,Kangra,Himachal Pradesh,Second Owner,petrol
+Skoda Fabia ELIGANCE 1.2TDI,Skoda,2011,250000,Kadapa,Andhra Pradesh,Single Owner,Not specified
+Kia Sonet HTX,Kia,2022,1150000,Hyderabad,Telangana,Single Owner,Not specified
+Hyundai Xcent E+,Hyundai,2017,240000,Faridabad,Haryana,Single Owner,Not specified
+Maruti Suzuki Swift VXI,Maruti Suzuki,2012,400000,Noida,Uttar Pradesh,Second Owner,Not specified
+Honda City ZXCVT PETROL (I-VTECH),Honda,2020,1150000,Bangalore,Karnataka,Single Owner,petrol
+Hyundai Verna Diesel,Hyundai,2014,395000,Bangalore,Karnataka,Second Owner,diesel
+Mahindra Verito D4,Mahindra,2015,170000,Hyderabad,Telangana,Single Owner,Not specified
+Maruti Suzuki Swift,Maruti Suzuki,2007,200000,Bangalore,Karnataka,Second Owner,Not specified
+Mahindra Scorpio DX TURBO 2.6 CRDE 2WD DIESEL,Mahindra,2007,310000,Mysore,Karnataka,Single Owner,diesel
+Honda City Vx cvt,Honda,2020,1225000,Bangalore,Karnataka,Second Owner,Not specified
+BMW 3-Series Prestige 320 D,BMW,2015,1100000,Bhopal,Madhya Pradesh,Second Owner,Not specified
+Maruti Suzuki Swift Dezire Tour,Maruti Suzuki,2016,325000,Cuddalore,Tamil Nadu,Single Owner,Not specified
+Hyundai Kona Premium,Hyundai,2020,1000000,South East Delhi,Delhi,Single Owner,Not specified
+Renault Triber RXZ,Renault,2020,550000,Chennai,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Alto K10,Maruti Suzuki,2025,561000,Bangalore,Karnataka,Single Owner,Not specified
+Toyota Innova v,Toyota,2014,1250000,Tiruchirappalli,Tamil Nadu,Second Owner,Not specified
+Mahindra Bolero neo N-10,Mahindra,2022,1070000,Buldhana,Maharashtra,Second Owner,Not specified
+Maruti Suzuki Swift Vxi,Maruti Suzuki,2013,200000,Noida,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Baleno Delta,Maruti Suzuki,2019,450000,Bangalore,Karnataka,Second Owner,Not specified
+Renault  Logan,Renault,2010,100000,Kollam,Kerala,Second Owner,Not specified
+Honda City,Honda,2016,550000,Gurgaon,Haryana,Single Owner,Not specified
+Mahindra XUV700 AX 7 Petrol AT Luxury Pack 7 Str,Mahindra,2022,2050000,Bangalore,Karnataka,Single Owner,petrol
+Force Motors Commercial Trax Ambulance,Force,2022,1050000,Pondicherry,Pondicherry,Single Owner,Not specified
+Hyundai Creta 1.4 CRDI E+,Hyundai,2018,536400,West Delhi,Delhi,Single Owner,Not specified
+MG Hector Plus Savvy pro CVT - 1.5T ,MG,2024,2100000,Durg,Chhattisgarh,Second Owner,Not specified
+Toyota Corolla 1.8 V AT,Toyota,2015,750000,Palakkad,Kerala,Single Owner,Not specified
+Toyota Glanza E,Toyota,2022,500000,Ghaziabad,Uttar Pradesh,Second Owner,Not specified
+Maruti Suzuki Wagon R Petrol,Maruti Suzuki,2008,105000,Hyderabad,Telangana,Second Owner,petrol
+Hyundai  Xing,Hyundai,2011,150000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Baleno delta,Maruti Suzuki,2019,550000,Pune,Maharashtra,Single Owner,Not specified
+Tata Harrier Fearless X DARK EDITION,Tata,2025,2600000,Chitradurga,Karnataka,Single Owner,Not specified
+Chevrolet Sail 1.4 base,Chevrolet,2013,210000,Raigad,Maharashtra,Single Owner,Not specified
+Skoda Kushaq AMBITION,Skoda,2023,1020000,Mangalore,Karnataka,Single Owner,Not specified
+Volkswagen Vento Diesel,Volkswagen,2014,310000,Agra,Uttar Pradesh,Single Owner,diesel
+Nissan Micra Diesel,Nissan,2011,210000,Agra,Uttar Pradesh,Second Owner,diesel
+Maruti Suzuki Wagon R VXI Petrol,Maruti Suzuki,2012,210000,Agra,Uttar Pradesh,Second Owner,petrol
+Hyundai i20 I20 Nline manual,Hyundai,2024,900000,Central Delhi,Delhi,Single Owner,Not specified
+Kia Carens Prestige plus 1.4 turbo,Kia,2022,1200000,Mohali,Punjab,Single Owner,Not specified
+Chevrolet Sail Sedan 1.2 LS,Chevrolet,2013,165000,Trivandrum,Kerala,Single Owner,Not specified
+Hyundai Venue Sx1.5,Hyundai,2022,950000,Virudhunagar,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Ertiga Cng,Maruti Suzuki,2021,750000,South Delhi,Delhi,Single Owner,Not specified
+Tata Nexon EV ZX plus lux Max,Tata,2023,1400000,Bangalore,Karnataka,Second Owner,Not specified
+MG Hector Plus,MG,2021,1600000,Chennai,Tamil Nadu,Single Owner,Not specified
+Honda Amaze Ex 1.2,Honda,2014,250000,Ghaziabad,Uttar Pradesh,Single Owner,Not specified
+Volkswagen Polo,Volkswagen,2012,250000,Bangalore,Karnataka,Second Owner,Not specified
+Maruti Suzuki Alto VXI,Maruti Suzuki,2021,295000,Medchal-Malkajgiri,Telangana,Single Owner,Not specified
+MG Hector Savvy Pro,MG,2023,1800000,Gurgaon,Haryana,Single Owner,Not specified
+Honda BR-V Vx mt diesel,Honda,2019,800000,Hanamkonda,Telangana,Second Owner,diesel
+Honda Amaze 1.2 SMT,Honda,2017,200000,Greater Noida,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Fronx Deta plus ags,Maruti Suzuki,2025,850000,Pune,Maharashtra,Single Owner,Not specified
+Chevrolet Optra 1.6,Chevrolet,2010,150000,Shimla,Himachal Pradesh,Single Owner,Not specified
+MG Astor Savvy,MG,2023,1000000,West Delhi,Delhi,Second Owner,Not specified
+Maruti Suzuki Ertiga ZXI SMARTHYBRID,Maruti Suzuki,2019,885000,Salem,Tamil Nadu,Single Owner,Not specified
+Hyundai Creta SX,Hyundai,2018,1000000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Swift Vdi RS,Maruti Suzuki,2014,400000,Chengalpattu,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Swift,Maruti Suzuki,2008,220000,Bangalore,Karnataka,Second Owner,Not specified
+Mercedes-Benz C-Class 220d Edition C,Mercedes-Benz,2017,1800000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki XL6 Alpha AT,Maruti Suzuki,2023,1350000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Altroz XZA,Tata,2023,650000,Gurgaon,Haryana,Second Owner,Not specified
+Hyundai Eon era+,Hyundai,2016,190000,North 24 Parganas,West Bengal,Second Owner,Not specified
+Kia Sonet Htk optional,Kia,2025,1100000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Creta Electric 51.4 Excellence LR,Hyundai,2025,2350000,Central Delhi,Delhi,Single Owner,Not specified
+Toyota Glanza S,Toyota,2025,950000,Coimbatore,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza Zxi+,Maruti Suzuki,2021,730000,Guwahati,Assam,Second Owner,Not specified
+Tata Zest 1.2 XT Revetron,Tata,2017,425000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Creta Sx at,Hyundai,2019,950000,Gurgaon,Haryana,Single Owner,Not specified
+Maruti Suzuki Grand Vitara Sigma,Maruti Suzuki,2024,1130000,Port Blair,Andaman & Nicobar,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza Lxi CNG,Maruti Suzuki,2024,950000,Pune,Maharashtra,Second Owner,Not specified
+Mahindra XUV300,Mahindra,2022,930000,Jamshedpur,Jharkhand,Single Owner,Not specified
+Kia Seltos Htk plus 1.5 MT,Kia,2023,1390000,Bangalore,Karnataka,Single Owner,Not specified
+Honda Jazz JAZZ 1.2/CVT,Honda,2018,550000,Chennai,Tamil Nadu,Single Owner,Not specified
+Chevrolet Captiva,Chevrolet,2009,300000,Rajsamand,Rajasthan,Second Owner,Not specified
+Renault Lodgy,Renault,2016,800000,Shivpuri,Madhya Pradesh,Single Owner,Not specified
+Honda Amaze VX-iDTEC,Honda,2015,300000,Thane,Maharashtra,Single Owner,Not specified
+Mercedes-Benz S-Class S350 L BE,Mercedes-Benz,2011,700000,Bharuch,Gujarat,Single Owner,Not specified
+Hyundai Venue S,Hyundai,2020,650000,Karnal,Haryana,Second Owner,Not specified
+Maruti Suzuki Ciaz Sigma manual,Maruti Suzuki,2023,685000,South West Delhi,Delhi,Single Owner,Not specified
+Maruti Suzuki Dzire Tours,Maruti Suzuki,2019,250000,North West Delhi,Delhi,Single Owner,Not specified
+Maruti Suzuki Ciaz Ciaz shiva rs,Maruti Suzuki,2015,450000,Bangalore,Karnataka,Single Owner,Not specified
+Toyota Cresta 2017,Toyota,2017,1650000,Bangalore,Karnataka,Single Owner,Not specified
+Honda City Ivtec SMT,Honda,2011,120000,Noida,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Baleno Blue,Maruti Suzuki,2017,750000,Kolar,Karnataka,Single Owner,Not specified
+Honda BR-V V idtec diesel,Honda,2016,785000,Bangalore,Karnataka,Second Owner,diesel
+Maruti Suzuki S-Cross Zeta 1.3,Maruti Suzuki,2017,575000,Mumbai,Maharashtra,Second Owner,Not specified
+Maruti Suzuki Zen VXI ABS,Maruti Suzuki,2009,150000,Raipur,Chhattisgarh,Single Owner,Not specified
+Maruti Suzuki Zen LXi,Maruti Suzuki,2003,136000,Coimbatore,Tamil Nadu,Single Owner,Not specified
+Mercedes-Benz GLE 350,Mercedes-Benz,2016,3200000,Chennai,Tamil Nadu,Second Owner,Not specified
+Maruti Suzuki Dzire Vxi,Maruti Suzuki,2013,230000,Ghaziabad,Uttar Pradesh,Second Owner,Not specified
+MG Hector Savy Pro,MG,2024,1650000,Bangalore,Karnataka,Single Owner,Not specified
+MG Astor 1.5 Sharp,MG,2022,1000000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Ignis Delta AMT,Maruti Suzuki,2018,450000,Hyderabad,Telangana,Second Owner,Not specified
+Isuzu D-Max S-Cab HINDI,Isuzu,2023,1200000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Baleno Zeta,Maruti Suzuki,2015,355000,Mumbai,Maharashtra,Second Owner,Not specified
+Tata Zest XT Diesel,Tata,2015,350000,Kolhapur,Maharashtra,Single Owner,diesel
+Honda City V AT SUNROOF I VTECH,Honda,2018,651000,Jaipur,Rajasthan,Single Owner,Not specified
+Honda City SMT,Honda,2013,400000,Nagpur,Maharashtra,Single Owner,Not specified
+Maruti Suzuki  Super carry,Maruti Suzuki,2023,400000,Pune,Maharashtra,Single Owner,Not specified
+BMW 5-Series 530d MSPORT,BMW,2018,3500000,Pune,Maharashtra,Second Owner,Not specified
+Maruti Suzuki Celerio Zxi,Maruti Suzuki,2014,180000,Gurgaon,Haryana,Single Owner,Not specified
+Hyundai Venue S,Hyundai,2020,590000,South Delhi,Delhi,Single Owner,Not specified
+Hyundai Elite i20 Sportz plus,Hyundai,2019,415000,Mumbai,Maharashtra,Single Owner,Not specified
+Kia Carens Prestige plus petrol IMT,Kia,2023,1400000,Pathanamthitta,Kerala,Single Owner,petrol
+Mahindra Thar 4x4 petrol,Mahindra,2023,1375000,West Delhi,Delhi,Single Owner,petrol
+Maruti Suzuki Ritz VXI,Maruti Suzuki,2010,250000,Hosur,Tamil Nadu,Second Owner,Not specified
+Tata Nexon Xz plus,Tata,2022,750000,Hyderabad,Telangana,Second Owner,Not specified
+Kia Seltos HTX Plus,Kia,2022,1300000,Nagaon,Assam,Second Owner,Not specified
+Honda City V,Honda,2015,580000,Chennai,Tamil Nadu,Single Owner,Not specified
+Tata Zest XM,Tata,2015,350000,Bangalore,Karnataka,Single Owner,Not specified
+Mahindra XUV 3XO Mx2 pro AT,Mahindra,2025,1030000,Chennai,Tamil Nadu,Single Owner,Not specified
+Bajaj Qute Cng,Bajaj,2023,400000,Bangalore,Karnataka,Single Owner,Not specified
+Skoda Slavia Style 1.0 at,Skoda,2022,1200000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Venue N Line,Hyundai,2023,1200000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Getz Gle,Hyundai,2008,135000,Bangalore,Karnataka,Single Owner,Not specified
+Ford Ecosport Trend,Ford,2020,750000,Virudhunagar,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza LXI,Maruti Suzuki,2024,930000,Bangalore,Karnataka,Single Owner,Not specified
+Chevrolet Aveo 1.4 LT,Chevrolet,2007,150000,Yamunanagar,Haryana,Second Owner,Not specified
+Mahindra Thar 2.0 AX O convertible Petrol MT4WD,Mahindra,2021,1100000,Faridabad,Haryana,Single Owner,petrol
+Mahindra XUV 500 w10,Mahindra,2015,850000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Dzire VDi,Maruti Suzuki,2014,350000,Kangra,Himachal Pradesh,Second Owner,Not specified
+Hyundai Creta 1.4 Diesel CRDi S,Hyundai,2017,720000,Ahmedabad,Gujarat,Second Owner,diesel
+Ford Aspire Diesel Titanium,Ford,2018,500000,Chennai,Tamil Nadu,Single Owner,diesel
+Hyundai i20 sportz,Hyundai,2012,140000,Jaipur,Rajasthan,Single Owner,Not specified
+Hyundai i20 Sportz,Hyundai,2012,140000,Jaipur,Rajasthan,Single Owner,Not specified
+Ford Ecosport Trend Diesel,Ford,2014,400000,Hyderabad,Telangana,Second Owner,diesel
+MG Hector HECTOR Gasoline 1.5 TCIC DCT Sharp BSVI,MG,2020,1150000,Panipat,Haryana,Second Owner,Not specified
+Tata Tiago XZ,Tata,2019,350000,Ghaziabad,Uttar Pradesh,Single Owner,Not specified
+Honda City ZX CVT,Honda,2017,760000,Coimbatore,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Dzire VDI,Maruti Suzuki,2011,250000,Bilaspur,Chhattisgarh,Single Owner,Not specified
+Jeep Compass Limited (O) 4*2,Jeep,2018,1200000,Bangalore,Karnataka,Second Owner,Not specified
+Honda Amaze CVT,Honda,2024,750000,Bhubaneshwar,Odisha,Single Owner,Not specified
+Toyota Corolla Altis Petrol GL Manual,Toyota,2015,550000,Noida,Uttar Pradesh,Single Owner,petrol
+Mahindra TUV300 T8,Mahindra,2016,500000,Kannur,Kerala,Single Owner,Not specified
+Jeep Compass 1.4L Limited Petrol Automatic,Jeep,2019,781000,Junagadh,Gujarat,Single Owner,petrol
+Ford Figo,Ford,2012,70000,Kolkata,West Bengal,Single Owner,Not specified
+Hyundai Creta E,Hyundai,2020,1050000,Gadag,Karnataka,Single Owner,Not specified
+Mahindra XUV300 XUV300 W6 1.2 petrol,Mahindra,2019,595000,Thrissur,Kerala,Single Owner,petrol
+Toyota Innova CrystA,Toyota,2019,1350000,South Delhi,Delhi,Single Owner,Not specified
+Tata Nexon Tata Nexon XZA+ (LXS Starlight Automatic,Tata,2024,1100000,Mumbai,Maharashtra,Single Owner,Not specified
+Mahindra XUV 500 W8,Mahindra,2012,480000,Krishnagiri,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki S-Cross Zeta,Maruti Suzuki,2020,575000,New Delhi,Delhi,Single Owner,Not specified
+Maruti Suzuki Swift Zdi,Maruti Suzuki,2013,450000,Coimbatore,Tamil Nadu,Single Owner,Not specified
+Tata Indigo CSeGLX,Tata,2010,200000,Greater Noida,Uttar Pradesh,Single Owner,Not specified
+Toyota Fortuner 4x2 AT,Toyota,2012,1250000,Bangalore,Karnataka,Single Owner,Not specified
+Volkswagen Taigun Highline TSI 1.0,Volkswagen,2024,1100000,Pondicherry,Pondicherry,Single Owner,Not specified
+Maruti Suzuki Baleno Delta,Maruti Suzuki,2016,520000,Bangalore,Karnataka,Single Owner,Not specified
+Mercedes-Benz C-Class C200,Mercedes-Benz,2016,1900000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Ertiga VDI,Maruti Suzuki,2012,480000,Bangalore,Karnataka,Second Owner,Not specified
+Honda City sv petrol,Honda,2015,600000,Kanyakumari,Tamil Nadu,Single Owner,petrol
+Maruti Suzuki Estilo LXI,Maruti Suzuki,2011,150000,Ranchi,Jharkhand,Second Owner,Not specified
+Volkswagen Virtus Base,Volkswagen,2024,1000000,Rohtak,Haryana,Second Owner,Not specified
+Jeep Compass Petrol Automatic,Jeep,2018,700000,Gurgaon,Haryana,Single Owner,petrol
+Force Motors Gurkha,Force,2022,1050000,Gurgaon,Haryana,Single Owner,Not specified
+Mercedes-Benz C-Class C200 CGI Elegance,Mercedes-Benz,2011,500000,Mumbai,Maharashtra,Second Owner,Not specified
+Maruti Suzuki Swift ZXI,Maruti Suzuki,2008,60000,Thane,Maharashtra,Single Owner,Not specified
+Mahindra XUV700 AX7 P MT 7STR,Mahindra,2025,2050000,Mysore,Karnataka,Single Owner,Not specified
+Hyundai i10 I10 Magna,Hyundai,2012,275000,Coimbatore,Tamil Nadu,Single Owner,Not specified
+Volkswagen Polo Highline,Volkswagen,2013,250000,Khordha,Odisha,Second Owner,Not specified
+Tata Nexon XZ+S,Tata,2021,850000,Gurgaon,Haryana,Single Owner,Not specified
+Tata Nexon NEXON (D)XZA+(O)DARK,Tata,2022,1000000,Pudukkottai,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki  Breeza ZXI+,Maruti Suzuki,2022,1250000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai i20 Magna,Hyundai,2014,350000,Panchkula,Haryana,Single Owner,Not specified
+Hyundai i10 Magna,Hyundai,2008,195000,Nellore,Andhra Pradesh,Single Owner,Not specified
+Tata Vista Tech,Tata,2010,200000,Hyderabad,Telangana,Single Owner,Not specified
+MG Hector Sharp DCT AT,MG,2020,1500000,Mumbai,Maharashtra,Single Owner,Not specified
+Kia Carens,Kia,2022,950000,Ghaziabad,Uttar Pradesh,Single Owner,Not specified
+Nissan Magnite XE,Nissan,2023,427000,Bangalore,Karnataka,Single Owner,Not specified
+MG Hector Sharp 2.0 diesel,MG,2020,985000,Mahendragarh,Haryana,Single Owner,diesel
+Maruti Suzuki Swift VXI,Maruti Suzuki,2016,395000,Mumbai,Maharashtra,Single Owner,Not specified
+MG Hector Sharp petrol DCT AT,MG,2019,1000000,Palakkad,Kerala,Single Owner,petrol
+Mahindra XUV 500 W8,Mahindra,2013,650000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza AT,Maruti Suzuki,2019,625000,Chennai,Tamil Nadu,Single Owner,Not specified
+Tata Nexon Fearless MT,Tata,2023,910000,Bangalore,Karnataka,Second Owner,Not specified
+Maruti Suzuki Baleno Sigma 1.2 petrol,Maruti Suzuki,2019,420000,West Delhi,Delhi,Single Owner,petrol
+Maruti Suzuki Dzire Vxi,Maruti Suzuki,2023,750000,Bangalore,Karnataka,Single Owner,Not specified
+Kia Seltos X-Line 1.4 DCT automatic,Kia,2022,1199000,West Delhi,Delhi,Single Owner,Not specified
+Ford Classic 1.6 Duratec Titanium,Ford,2013,200000,Trivandrum,Kerala,Single Owner,Not specified
+Hyundai Creta 1.4 CRDI S,Hyundai,2018,600000,West Delhi,Delhi,Single Owner,Not specified
+Tata Harrier Xm,Tata,2021,1025000,Jhajjar,Haryana,Single Owner,Not specified
+Hyundai i10 Kappa 1.2,Hyundai,2011,165000,Mumbai,Maharashtra,Second Owner,Not specified
+Hyundai i10 Sportz 1.2 Kappa2,Hyundai,2011,210000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Curvv Pure Plus S 1.2 Revotron Petrol 7DCA,Tata,2024,1200000,New Delhi,Delhi,Single Owner,petrol
+Skoda Kushaq Montecarlo 1.5 DSG,Skoda,2024,1875000,Visakhapatnam,Andhra Pradesh,Single Owner,Not specified
+Hyundai i10 Nios,Hyundai,2019,525000,Bangalore,Karnataka,Second Owner,Not specified
+Renault Duster RXL,Renault,2016,450000,Bangalore,Karnataka,Single Owner,Not specified
+Toyota Fortuner sigma 4x4 Automatic,Toyota,2023,4125000,Mumbai,Maharashtra,Single Owner,Not specified
+Toyota Corolla corolla altis D4J,Toyota,2012,480000,Bangalore,Karnataka,Single Owner,Not specified
+MG Hector Hybrid,MG,2022,1250000,Kota,Rajasthan,Single Owner,Not specified
+Nissan Sunny XV,Nissan,2013,350000,Erode,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Ciaz ALPHA PETROL,Maruti Suzuki,2019,525000,Mumbai,Maharashtra,Single Owner,petrol
+Hyundai Aura S CNG,Hyundai,2024,650000,Jaipur,Rajasthan,Single Owner,Not specified
+Ford Ecosport Ecoboost titanium,Ford,2017,500000,Pune,Maharashtra,Second Owner,Not specified
+Hyundai Creta 1.4 CRDI E PLUS,Hyundai,2019,690000,Sirsa,Haryana,Single Owner,Not specified
+Maruti Suzuki Alto Lxi,Maruti Suzuki,2013,160000,Fatehpur,Uttar Pradesh,Single Owner,Not specified
+Tata Hexa,Tata,2018,750000,North West Delhi,Delhi,Single Owner,Not specified
+Hyundai Creta 1.6 SX+ SE VTVT Dual Tone,Hyundai,2018,795000,Raigad,Maharashtra,Single Owner,Not specified
+Hyundai i10 Grand i10,Hyundai,2018,410000,Tiruvannamalai,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Grand Vitara sigma Smart hybrid 1.5,Maruti Suzuki,2024,915000,Greater Noida,Uttar Pradesh,Single Owner,Not specified
+Mahindra Thar crde,Mahindra,2019,650000,Solan,Himachal Pradesh,Single Owner,Not specified
+Hyundai Creta SX Executive 1.5L Petrol,Hyundai,2022,1150000,Thane,Maharashtra,Single Owner,petrol
+Maruti Suzuki Ignis zeta,Maruti Suzuki,2020,410000,West Delhi,Delhi,Single Owner,Not specified
+Volkswagen Vento 2015 Volkswagen Vento 1.5L TDI Diesel DSG Automatic Comfortline Variant,Volkswagen,2015,550000,Chennai,Tamil Nadu,Single Owner,diesel
+Skoda Kushaq monte carlo,Skoda,2022,1600000,Coimbatore,Tamil Nadu,Single Owner,Not specified
+Mahindra XUV700 AX3,Mahindra,2022,1275000,Ghaziabad,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki S-Cross ZETA 1.3,Maruti Suzuki,2016,554000,Thane,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Estilo Green LXI CNG,Maruti Suzuki,2010,121000,East Delhi,Delhi,Single Owner,Not specified
+Mercedes-Benz GLA 35 4Matic,Mercedes-Benz,2023,5200000,Noida,Uttar Pradesh,Single Owner,Not specified
+Volkswagen Polo TSI,Volkswagen,2021,700000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Xcent VTVT,Hyundai,2014,270000,Mumbai,Maharashtra,Single Owner,Not specified
+Honda City,Honda,2010,200000,Mumbai,Maharashtra,Second Owner,Not specified
+Mahindra XUV700 AX7,Mahindra,2024,1935000,Thane,Maharashtra,Single Owner,Not specified
+Kia Carens Prestige,Kia,2023,1100000,Ernakulam,Kerala,Second Owner,Not specified
+Hyundai i10 I10 Grand Nios,Hyundai,2022,575000,Bangalore,Karnataka,Single Owner,Not specified
+MG Hector Sharp,MG,2019,950000,Bangalore,Karnataka,Single Owner,Not specified
+Mahindra Thar LX hardtop MT 4WD,Mahindra,2023,1175000,Gurgaon,Haryana,Single Owner,Not specified
+Honda BR-V,Honda,2016,525000,Mumbai,Maharashtra,Single Owner,Not specified
+Honda Amaze 1.2 VX i-vtec,Honda,2013,250000,Bangalore,Karnataka,Single Owner,Not specified
+BMW X3 X DRIVE 20D Luxury Line,BMW,2018,3000000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Tiago Xzo,Tata,2019,325000,Faridabad,Haryana,Single Owner,Not specified
+Skoda Slavia 1.0 top model petrol,Skoda,2023,1200000,Guwahati,Assam,Second Owner,petrol
+Fiat Punto ACTIVE 1.2,Fiat,2009,79999,Navi Mumbai,Maharashtra,Single Owner,Not specified
+Hyundai Venue S,Hyundai,2022,785000,Guntur,Andhra Pradesh,Single Owner,Not specified
+Tata Tigor XZO,Tata,2017,450000,Lucknow,Uttar Pradesh,Second Owner,Not specified
+Tata Nexon Pur amt,Tata,2024,1100000,Ratnagiri,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Baleno Base,Maruti Suzuki,2021,410000,Hisar,Haryana,Single Owner,Not specified
+Toyota Innova 2.5g,Toyota,2014,450000,Gorakhpur,Uttar Pradesh,Single Owner,Not specified
+Hyundai i10 Grand sportz,Hyundai,2014,250000,Ranchi,Jharkhand,Second Owner,Not specified
+Hyundai Xcent 1.2 vtvt,Hyundai,2018,280000,Lucknow,Uttar Pradesh,Second Owner,Not specified
+Maruti Suzuki Wagon R 2009,Maruti Suzuki,2009,100000,Varanasi,Uttar Pradesh,Single Owner,Not specified
+Tata Tigor XZ+,Tata,2019,499000,Medchal-Malkajgiri,Telangana,Second Owner,Not specified
+Renault Lodgy World Edition,Renault,2017,485000,Ahmedabad,Gujarat,Single Owner,Not specified
+Maruti Suzuki Swift LDI (O),Maruti Suzuki,2017,450000,Tiruchirappalli,Tamil Nadu,Single Owner,Not specified
+Mahindra KUV100 Top end k8 nxt 6 seater,Mahindra,2017,220000,Bhind,Madhya Pradesh,Second Owner,Not specified
+Mahindra XUV 500 w11,Mahindra,2019,1300000,Kodagu,Karnataka,Single Owner,Not specified
+Maruti Suzuki Eeco 7 seater,Maruti Suzuki,2023,480000,Indore,Madhya Pradesh,Single Owner,Not specified
+Tata Safari Pure black s,Tata,2024,1950000,Sri Ganganagar,Rajasthan,Second Owner,Not specified
+Honda Amaze Sx,Honda,2015,250000,Guwahati,Assam,Single Owner,Not specified
+Nissan Micra DCI,Nissan,2012,295000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Creta Desiel manuel s optional,Hyundai,2025,1800000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai i10 sports AUTOMATIC,Hyundai,2010,220000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Venue SX 1.0 TURBO,Hyundai,2022,900000,Bangalore,Karnataka,Single Owner,Not specified
+Mercedes-Benz C-Class C220d,Mercedes-Benz,2022,4000000,Faridabad,Haryana,Single Owner,Not specified
+Hyundai Verna Fluidic,Hyundai,2015,420000,North East Delhi,Delhi,Second Owner,Not specified
+Kia Syros HTK Plus 1.0 Turbo MT,Kia,2025,1155786,Ludhiana,Punjab,Second Owner,Not specified
+Tata Tiago Tiago automatic,Tata,2023,660000,Chennai,Tamil Nadu,Single Owner,Not specified
+Hyundai Verna 1.6SX Verna CRDi Diesel,Hyundai,2014,350000,Ranchi,Jharkhand,Single Owner,diesel
+Honda Mobilio Ivtec,Honda,2014,450000,Bangalore,Karnataka,Second Owner,Not specified
+Maruti Suzuki S-Cross Alpha,Maruti Suzuki,2020,595000,East Delhi,Delhi,Second Owner,Not specified
+BMW 5-Series 520D Luxuryline,BMW,2019,2790000,Pune,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Swift Zxi plus Amt,Maruti Suzuki,2019,550000,Mumbai,Maharashtra,Single Owner,Not specified
+Mitsubishi Pajero,Mitsubishi,2014,750000,Chengalpattu,Tamil Nadu,Second Owner,Not specified
+Ford Fiesta 1.6 ZXI,Ford,2009,242000,Palakkad,Kerala,Second Owner,Not specified
+Citroen C3 Feel Dual Tone,Citroen,2022,700000,Gurgaon,Haryana,Single Owner,Not specified
+Hyundai Exter SX Mt 1.2,Hyundai,2023,760000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Nexon XZA+ (S),Tata,2020,850000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Nexon Creative + PS DT CNG GREY 2025,Tata,2025,1299999,Kachchh,Gujarat,Second Owner,Not specified
+Hyundai Tucson,Hyundai,2018,1300000,Bangalore,Karnataka,Second Owner,Not specified
+Kia Sonet HTX IMT G1.0 AE,Kia,2021,846000,Gurgaon,Haryana,Second Owner,Not specified
+Tata Altroz Xm plus,Tata,2022,680000,Bharuch,Gujarat,Single Owner,Not specified
+Maruti Suzuki Ciaz ZDI SHVS,Maruti Suzuki,2015,450000,Mumbai,Maharashtra,Single Owner,Not specified
+Ford Figo TDCi,Ford,2011,50000,Thrissur,Kerala,Single Owner,Not specified
+Mercedes-Benz GLC 300,Mercedes-Benz,2017,2900000,Bangalore,Karnataka,Second Owner,Not specified
+Toyota Innova Crysta z 7str 2017 manual,Toyota,2017,1730000,Trivandrum,Kerala,Single Owner,Not specified
+Hyundai i20 magna,Hyundai,2014,400000,Alappuzha,Kerala,Single Owner,Not specified
+Tata Tigor Tigor XZ+,Tata,2019,520000,Kozhikode,Kerala,Single Owner,Not specified
+Mahindra XUV 500 W8,Mahindra,2012,260000,Kolar,Karnataka,Single Owner,Not specified
+Tata Nexon Tata nexon pure+pmt,Tata,2025,800000,Darjeeling,West Bengal,Single Owner,Not specified
+Honda WR-V Petrol,Honda,2018,500000,Jalpaiguri,West Bengal,Single Owner,petrol
+Chevrolet Beat Diesel,Chevrolet,2012,155000,Sagar,Madhya Pradesh,Single Owner,diesel
+Honda City,Honda,2012,350000,South Delhi,Delhi,Single Owner,Not specified
+Renault Kwid gearless,Renault,2017,250000,Nellore,Andhra Pradesh,Single Owner,Not specified
+Hyundai Aura S 1.2 Petrol CNG,Hyundai,2021,650000,Navi Mumbai,Maharashtra,Single Owner,petrol
+Mahindra XUV300 W8 optional 1.2 L petrol,Mahindra,2021,850000,Dehradun,Uttarakhand,Single Owner,petrol
+Toyota Fortuner manual 4by2,Toyota,2013,1050000,Sangrur,Punjab,Single Owner,Not specified
+Hyundai i10 Automatic,Hyundai,2011,130000,Lucknow,Uttar Pradesh,Second Owner,Not specified
+Mahindra Bolero BVI BS6,Mahindra,2021,750000,Auraiya,Uttar Pradesh,Single Owner,Not specified
+Tata Tiago XZ (O),Tata,2019,400000,Jind,Haryana,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza VDi,Maruti Suzuki,2017,450000,North West Delhi,Delhi,Single Owner,Not specified
+Honda Amaze E ivtec,Honda,2014,260000,Rajkot,Gujarat,Single Owner,Not specified
+Maruti Suzuki Alto K10 VKI amt,Maruti Suzuki,2016,320000,Bangalore,Karnataka,Second Owner,Not specified
+Maruti Suzuki S-Cross Alpha 1.3,Maruti Suzuki,2017,500000,Jodhpur,Rajasthan,Single Owner,Not specified
+Maruti Suzuki Grand Vitara alpha hybrid,Maruti Suzuki,2023,1500000,Sivaganga,Tamil Nadu,Second Owner,Not specified
+Toyota Innova G,Toyota,2014,800000,Bangalore,Karnataka,Second Owner,Not specified
+Hyundai Venue Turbo DCT SXO,Hyundai,2023,1200000,Bangalore,Karnataka,Single Owner,Not specified
+Ford Endeavour Titanium 2.2mt,Ford,2019,2800000,Bangalore,Karnataka,Single Owner,Not specified
+Mercedes-Benz GLA 200,Mercedes-Benz,2021,2600000,Ghaziabad,Uttar Pradesh,Second Owner,Not specified
+Tata Nexon XZA PLUS O,Tata,2022,825000,Bangalore,Karnataka,Second Owner,Not specified
+Toyota Innova 2.7V Petrol,Toyota,2022,1850000,Kheda,Gujarat,Second Owner,petrol
+BMW 3-Series 330 i m sport,BMW,2020,2600000,South West Delhi,Delhi,Second Owner,Not specified
+Hyundai Venue Sx 1.0 Turbo petrol manual,Hyundai,2020,800000,Chennai,Tamil Nadu,Single Owner,petrol
+Honda City 1.5SMT,Honda,2010,180000,South Delhi,Delhi,Single Owner,Not specified
+Maruti Suzuki XL6 Alpha,Maruti Suzuki,2023,1175000,Bangalore,Karnataka,Second Owner,Not specified
+Hyundai Aura 1.2 SX,Hyundai,2022,700000,Bangalore,Karnataka,Single Owner,Not specified
+Renault Kwid Climber,Renault,2019,395000,Hassan,Karnataka,Single Owner,Not specified
+Mahindra Scorpio N,Mahindra,2023,2000000,Bangalore,Karnataka,Single Owner,Not specified
+Skoda Slavia Active,Skoda,2023,800000,Patna,Bihar,Single Owner,Not specified
+Maruti Suzuki Dzire Vxi petrol,Maruti Suzuki,2014,280000,Nagpur,Maharashtra,Single Owner,petrol
+Kia Seltos Imt diesel,Kia,2022,1200000,Kasargod,Kerala,Second Owner,diesel
+Hyundai Creta Good,Hyundai,2016,620000,Margao,Goa,Single Owner,Not specified
+Skoda Rapid Style 1.5,Skoda,2016,440000,Hyderabad,Telangana,Second Owner,Not specified
+Kia Seltos HTK,Kia,2019,850000,Mumbai,Maharashtra,Second Owner,Not specified
+Maruti Suzuki Wagon R Vxi,Maruti Suzuki,2014,175000,Jind,Haryana,Single Owner,Not specified
+Maruti Suzuki Ertiga 2023,Maruti Suzuki,2023,900000,Mumbai,Maharashtra,Single Owner,Not specified
+Mahindra Quanto C2,Mahindra,2014,120000,Munger,Bihar,Second Owner,Not specified
+Tata Tiago Nrg,Tata,2021,410000,Rajkot,Gujarat,Single Owner,Not specified
+Ford Figo Titanium plus,Ford,2015,160000,Cachar,Assam,Single Owner,Not specified
+Hyundai Verna 1.6 crdi sx optional,Hyundai,2017,500000,Panipat,Haryana,Single Owner,Not specified
+Mahindra XUV 500 W6,Mahindra,2014,450000,Ludhiana,Punjab,Second Owner,Not specified
+Mahindra XUV700,Mahindra,2024,2550000,Bhubaneshwar,Odisha,Single Owner,Not specified
+Nissan Micra XVCVT,Nissan,2016,400000,Pune,Maharashtra,Single Owner,Not specified
+Volkswagen Polo Tdi comfortline1.2,Volkswagen,2011,290000,Tirupattur,Tamil Nadu,Second Owner,Not specified
+Honda WR-V Top end 1.5 diesel,Honda,2017,725000,Erode,Tamil Nadu,Single Owner,diesel
+Honda Amaze Vx cvt,Honda,2019,550000,Ghaziabad,Uttar Pradesh,Second Owner,Not specified
+Ford Aspire 1.2 TI-VCT TIT MT,Ford,2016,380000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Altroz Xm,Tata,2021,400000,Jhajjar,Haryana,Single Owner,Not specified
+Tata Tiago Xt cng,Tata,2022,415000,Faridabad,Haryana,Second Owner,Not specified
+Toyota Fortuner LEGENDER 4x2,Toyota,2023,4200000,North West Delhi,Delhi,Single Owner,Not specified
+Hyundai i20 Sports,Hyundai,2012,320000,Bangalore,Karnataka,Single Owner,Not specified
+Toyota Innova V top model,Toyota,2016,900000,Mumbai,Maharashtra,Second Owner,Not specified
+Volkswagen Taigun Sport GT Line 1.0 AT,Volkswagen,2024,1250000,Ghaziabad,Uttar Pradesh,Second Owner,Not specified
+Maruti Suzuki Dzire VXI cng,Maruti Suzuki,2022,600000,Gurgaon,Haryana,Single Owner,Not specified
+Maruti Suzuki Wagon R Lxi cng,Maruti Suzuki,2014,250000,Mumbai,Maharashtra,Second Owner,Not specified
+Volkswagen Ameo High line,Volkswagen,2017,420000,Bangalore,Karnataka,Second Owner,Not specified
+Tata Nexon Creative plus 6 MT,Tata,2024,1150000,Bangalore,Karnataka,Single Owner,Not specified
+Mahindra XUV 500 W6,Mahindra,2015,500000,Bangalore,Karnataka,Second Owner,Not specified
+Hyundai i20 Sportz,Hyundai,2012,330000,Chennai,Tamil Nadu,Single Owner,Not specified
+Skoda Slavia,Skoda,2022,950000,Chennai,Tamil Nadu,Second Owner,Not specified
+BMW iX Xdrive40,BMW,2023,9000000,Bangalore,Karnataka,Second Owner,Not specified
+Skoda Kodiaq 4*4 style,Skoda,2018,1300000,Mumbai,Maharashtra,Second Owner,Not specified
+Jeep Compass Model S (O) 2.0,Jeep,2022,2500000,Tiruchirappalli,Tamil Nadu,Single Owner,Not specified
+Hyundai Creta Sx,Hyundai,2016,725000,Bangalore,Karnataka,Second Owner,Not specified
+MG Hector 1.5 DCT AT Petrol,MG,2019,1300000,Bangalore,Karnataka,Single Owner,petrol
+Mahindra Thar LX Diesel 4×4,Mahindra,2021,1350000,Nilgiris,Tamil Nadu,Single Owner,diesel
+Maruti Suzuki Dzire Vdi,Maruti Suzuki,2014,450000,Chandrapur,Maharashtra,Single Owner,Not specified
+Jeep Compass Petrol,Jeep,2018,750000,South Delhi,Delhi,Single Owner,petrol
+MG Hector Sharp Hybrid 1.5 MT,MG,2022,1550000,Mumbai,Maharashtra,Single Owner,Not specified
+Tata Nexon XZ,Tata,2021,700000,Viluppuram,Tamil Nadu,Single Owner,Not specified
+Hyundai  Grand i 10,Hyundai,2013,210000,Sirmaur,Himachal Pradesh,Second Owner,Not specified
+Hyundai Venue 1.5 CRDI MT S+,Hyundai,2022,750000,Kishtwar,Jammu & Kashmir,Single Owner,Not specified
+Maruti Suzuki XL6,Maruti Suzuki,2023,1200000,Didwana-Kuchaman,Rajasthan,Single Owner,Not specified
+Hyundai Santro Petrol,Hyundai,2005,200000,Bangalore,Karnataka,Second Owner,petrol
+Maruti Suzuki Wagon R Vxi,Maruti Suzuki,2011,160000,Thane,Maharashtra,Single Owner,Not specified
+Jeep Compass 2.0 disele longitude,Jeep,2018,850000,Bhiwani,Haryana,Second Owner,Not specified
+Renault Kiger 2023 1.0 RXZ AMT,Renault,2023,911000,Pune,Maharashtra,Single Owner,Not specified
+Tata Nexon 1.5 diesel,Tata,2018,335000,Srinagar,Jammu & Kashmir,Second Owner,diesel
+Tata  Electric,Tata,2022,700000,Pimpri-Chinchwad,Maharashtra,Second Owner,Not specified
+Ford Figo zxi,Ford,2013,120000,Kaithal,Haryana,Second Owner,Not specified
+Hyundai Venue,Hyundai,2023,850000,Kasargod,Kerala,Second Owner,Not specified
+Tata Safari accomplished plus dual tone 7str TOP END AT,Tata,2023,2650000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Altroz Dca xza plus bs6,Tata,2023,850000,Thane,Maharashtra,Second Owner,Not specified
+Maruti Suzuki S-Cross Zeta,Maruti Suzuki,2019,900000,Surat,Gujarat,Single Owner,Not specified
+Volkswagen Polo Trendline,Volkswagen,2012,150000,Ahmedabad,Gujarat,Single Owner,Not specified
+Maruti Suzuki Dzire Zxi AMT,Maruti Suzuki,2018,450000,Thane,Maharashtra,Single Owner,Not specified
+Renault Duster 1.5 106 PS RXS CVT,Renault,2018,600000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Venue 1L Turbo AT SX Plus petrol,Hyundai,2019,800000,Bangalore,Karnataka,Single Owner,petrol
+Hyundai Creta SX (O) AT,Hyundai,2021,1500000,Hyderabad,Telangana,Single Owner,Not specified
+MG Hector Savy,MG,2023,1900000,Gurgaon,Haryana,Single Owner,Not specified
+Mercedes-Benz S-Class 350,Mercedes-Benz,2017,4000000,Bangalore,Karnataka,Single Owner,Not specified
+Toyota Camry Hybrid,Toyota,2014,1100000,Palakkad,Kerala,Single Owner,Not specified
+Toyota Cresta,Toyota,2017,1300000,Alappuzha,Kerala,Second Owner,Not specified
+Skoda Octavia 2016 diesel,Skoda,2016,900000,Chennai,Tamil Nadu,Single Owner,diesel
+Honda WR-V Vx MT,Honda,2019,625000,Bangalore,Karnataka,Single Owner,Not specified
+Nissan Sunny XL Diesel,Nissan,2012,210000,Ernakulam,Kerala,Single Owner,diesel
+Kia  HTX Plus Diesel,Kia,2022,1425000,Bangalore,Karnataka,Single Owner,diesel
+Nissan Magnite XV dual tone,Nissan,2022,650000,Bangalore,Karnataka,Single Owner,Not specified
+Toyota Glanza VAMT,Toyota,2022,850000,Hyderabad,Telangana,Single Owner,Not specified
+Hyundai Verna CRDI 1.6 SX,Hyundai,2013,320000,Saraikela Kharsawan,Jharkhand,Single Owner,Not specified
+Tata Punch Empowered plus,Tata,2025,1200000,Medchal-Malkajgiri,Telangana,Single Owner,Not specified
+Volkswagen Taigun Comfortline,Volkswagen,2024,1100000,Kolkata,West Bengal,Second Owner,Not specified
+Hyundai Santro Santo xing,Hyundai,2012,110000,Khordha,Odisha,Second Owner,Not specified
+Tata Nexon XMA AMT,Tata,2022,880000,Patna,Bihar,Single Owner,Not specified
+Tata Indica DLS V2,Tata,2004,65000,Coimbatore,Tamil Nadu,Single Owner,Not specified
+Ford Fiesta Sxi1.4,Ford,2011,145000,Aurangabad,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza ZDI,Maruti Suzuki,2018,795000,Udupi,Karnataka,Single Owner,Not specified
+Tata Tigor XT,Tata,2018,300000,Amethi,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Ertiga,Maruti Suzuki,2022,800000,Gwalior,Madhya Pradesh,Second Owner,Not specified
+Maruti Suzuki Baleno Delta,Maruti Suzuki,2017,625000,Dharwad,Karnataka,Single Owner,Not specified
+Hyundai Santro Xing,Hyundai,2010,95000,Khairthal-Tijara,Rajasthan,Second Owner,Not specified
+Mahindra XUV 500 W6 2WD,Mahindra,2013,250000,Hazaribag,Jharkhand,Single Owner,Not specified
+Toyota Etios Vx,Toyota,2011,280000,Lucknow,Uttar Pradesh,Single Owner,Not specified
+Tata Tiago Xt(o),Tata,2023,480000,North West Delhi,Delhi,Single Owner,Not specified
+Kia,Kia,2022,1075000,Chennai,Tamil Nadu,Single Owner,Not specified
+Honda City Cvt,Honda,2015,550000,Chennai,Tamil Nadu,Second Owner,Not specified
+Tata Nexon Xz plus s,Tata,2023,1200000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Baleno Zeta,Maruti Suzuki,2015,399000,Navi Mumbai,Maharashtra,Single Owner,Not specified
+Audi A4 2 TDI 177 BHP,Audi,2014,1000000,Chennai,Tamil Nadu,Single Owner,Not specified
+Hyundai Creta 1.6 Sx plus,Hyundai,2015,590000,Mumbai,Maharashtra,Second Owner,Not specified
+MG Astor Sharp 1.5 MT,MG,2022,1300000,North West Delhi,Delhi,Second Owner,Not specified
+Tata Nexon Pure,Tata,2023,810000,Saharanpur,Uttar Pradesh,Single Owner,Not specified
+Ford Ikon 1.3 flair,Ford,2006,120000,Visakhapatnam,Andhra Pradesh,Single Owner,Not specified
+Maruti Suzuki Ertiga Ertiga Smart Hybrid ZXI AT (Automatic),Maruti Suzuki,2021,1050000,Mumbai,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Alto 800 VXI,Maruti Suzuki,2014,175000,Eluru,Andhra Pradesh,Single Owner,Not specified
+Tata Altroz,Tata,2022,765000,Bharatpur,Rajasthan,Single Owner,Not specified
+BMW X3 Xdrive 20d,BMW,2011,510000,Raipur,Chhattisgarh,Single Owner,Not specified
+Land Rover Range Rover Evoque Sd4 pure,Land Rover,2013,1551000,Indore,Madhya Pradesh,Second Owner,Not specified
+Volkswagen Ameo 1.0,Volkswagen,2018,350000,Surat,Gujarat,Single Owner,Not specified
+Maruti Suzuki Swift LXI,Maruti Suzuki,2010,150000,Ghaziabad,Uttar Pradesh,Second Owner,Not specified
+Renault Triber Rxl petrol,Renault,2019,500000,Pune,Maharashtra,Second Owner,petrol
+Honda City VX MT IVTEC,Honda,2016,515000,South West Delhi,Delhi,Second Owner,Not specified
+Hyundai i10 Nio sports,Hyundai,2023,600000,Hyderabad,Telangana,Single Owner,Not specified
+Maruti Suzuki 800,Maruti Suzuki,2006,45000,Balotra,Rajasthan,Second Owner,Not specified
+Maruti Suzuki 800,Maruti Suzuki,2007,125000,Chennai,Tamil Nadu,Second Owner,Not specified
+Hyundai Aura SX MT Petrol,Hyundai,2020,450000,Nellore,Andhra Pradesh,Single Owner,petrol
+Maruti Suzuki SX4 Automatic,Maruti Suzuki,2010,180000,Pune,Maharashtra,Second Owner,Not specified
+Volkswagen Polo GT TSI,Volkswagen,2021,1000000,Ernakulam,Kerala,Single Owner,Not specified
+Mahindra XUV 500 W10,Mahindra,2016,660000,Lucknow,Uttar Pradesh,Single Owner,Not specified
+MG Hector Select Pro CVT 1.5 Turbo Petrol,MG,2024,2000000,Chennai,Tamil Nadu,Single Owner,petrol
+Ford Ecosport Trade + 1.5 petrol,Ford,2016,380000,Gurgaon,Haryana,Single Owner,petrol
+Mahindra XUV300 W8 O,Mahindra,2020,740000,Varanasi,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Baleno Zeta petrol,Maruti Suzuki,2022,650000,Hyderabad,Telangana,Single Owner,petrol
+Maruti Suzuki Alto LXI,Maruti Suzuki,2010,175000,Hyderabad,Telangana,Second Owner,Not specified
+Maruti Suzuki Dzire Lxi,Maruti Suzuki,2013,300000,Meerut,Uttar Pradesh,Single Owner,Not specified
+Mahindra Scorpio S-10,Mahindra,2017,750000,Aurangabad,Bihar,Single Owner,Not specified
+Maruti Suzuki Ertiga,Maruti Suzuki,2023,900000,Fazilka,Punjab,Single Owner,Not specified
+Maruti Suzuki Ertiga Cng,Maruti Suzuki,2025,1025000,North 24 Parganas,West Bengal,Second Owner,Not specified
+Maruti Suzuki Wagon R Lxi cng,Maruti Suzuki,2013,200000,Lucknow,Uttar Pradesh,Single Owner,Not specified
+BMW 5-Series 525D,BMW,2011,795000,Mumbai,Maharashtra,Second Owner,Not specified
+Maruti Suzuki Alto Lxi,Maruti Suzuki,2005,125000,Chickmagalur,Karnataka,Single Owner,Not specified
+Tata Punch Punch pure,Tata,2022,400000,Ballia,Uttar Pradesh,Second Owner,Not specified
+Kia Seltos,Kia,2024,1350000,Cuttack,Odisha,Single Owner,Not specified
+Volkswagen Polo 1.5 high line,Volkswagen,2014,450000,Thrissur,Kerala,Single Owner,Not specified
+Hyundai i20 Sportz,Hyundai,2014,280000,Noida,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Jimny Alpha dual grip automatic,Maruti Suzuki,2023,1200000,Neemuch,Madhya Pradesh,Second Owner,Not specified
+Ford Figo Duratorq Diesel ZXI 1.4,Ford,2013,215000,Hyderabad,Telangana,Single Owner,diesel
+Tata Harrier XM,Tata,2019,800000,Gautam Buddha Nagar,Uttar Pradesh,Single Owner,Not specified
+Hyundai i20 Sports,Hyundai,2014,550000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Ciaz Alpha AT,Maruti Suzuki,2017,650000,Vadodara,Gujarat,Second Owner,Not specified
+Mahindra XUV 500 W10 amt,Mahindra,2017,750000,Ratnagiri,Maharashtra,Single Owner,Not specified
+Mahindra Thar Hardtop 4x4 manual,Mahindra,2021,1150000,Ahmedabad,Gujarat,Second Owner,Not specified
+Maruti Suzuki Wagon R VXI petrol,Maruti Suzuki,2014,202500,Aligarh,Uttar Pradesh,Single Owner,petrol
+Honda Amaze Vx,Honda,2013,200000,Gurgaon,Haryana,Single Owner,Not specified
+Hyundai Creta Diesel automatic sx,Hyundai,2017,800000,Surat,Gujarat,Second Owner,diesel
+Hyundai Elite i20 Asta,Hyundai,2016,500000,Bangalore,Karnataka,Single Owner,Not specified
+Honda Amaze RDE SMT (I-VTEC),Honda,2023,650000,Kannur,Kerala,Single Owner,Not specified
+Tata Altroz I turbo petro,Tata,2022,551000,Lucknow,Uttar Pradesh,Single Owner,Not specified
+MG Gloster Savvy,MG,2022,3200000,Chennai,Tamil Nadu,Second Owner,Not specified
+Hyundai Aura S petrol,Hyundai,2021,500000,Nadia,West Bengal,Single Owner,petrol
+Hyundai i10 1.1 bluedrive magna,Hyundai,2012,230000,West Godavari,Andhra Pradesh,Second Owner,Not specified
+Skoda Octavia Style plus 1.8 tsi petrol automatic varient,Skoda,2016,950000,Bangalore,Karnataka,Single Owner,petrol
+Hyundai i10 Era,Hyundai,2011,140000,Bhubaneshwar,Odisha,Single Owner,Not specified
+Volkswagen Polo 1.0l MPI 56KW MT-CL,Volkswagen,2019,420000,Ahmedabad,Gujarat,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza Vxi,Maruti Suzuki,2022,800000,Nagpur,Maharashtra,Single Owner,Not specified
+MG Astor Sharp Ex 1.5M,MG,2022,1100000,Mumbai,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Swift Vxi,Maruti Suzuki,2024,640000,Kangra,Himachal Pradesh,Second Owner,Not specified
+Volvo XC60 Incription,Volvo,2018,2500000,Ghaziabad,Uttar Pradesh,Single Owner,Not specified
+Skoda Kushaq Active 1.0,Skoda,2022,820000,Chandrapur,Maharashtra,Second Owner,Not specified
+Maruti Suzuki Wagon R VXI,Maruti Suzuki,2015,300000,Pune,Maharashtra,Single Owner,Not specified
+Hyundai  i10 Sports automatic,Hyundai,2012,295000,Ernakulam,Kerala,Single Owner,Not specified
+Hyundai  Grandi10,Hyundai,2014,360000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Ertiga Vxi,Maruti Suzuki,2023,900000,Ujjain,Madhya Pradesh,Single Owner,Not specified
+Tata Altroz,Tata,2020,425000,Hisar,Haryana,Single Owner,Not specified
+Hyundai Creta 1.6 Sx plus automatic,Hyundai,2015,675000,Churu,Rajasthan,Single Owner,Not specified
+Tata Punch accomplished,Tata,2023,825000,Kottayam,Kerala,Single Owner,Not specified
+Renault Duster RXL Diesel,Renault,2016,350000,Haridwar,Uttarakhand,Second Owner,diesel
+Mahindra Jeeto,Mahindra,2022,400000,Aurangabad,Maharashtra,Single Owner,Not specified
+Hyundai Exter Sx o amt,Hyundai,2023,790000,Kolhapur,Maharashtra,Single Owner,Not specified
+Honda Accord Bti,Honda,2005,80000,Mumbai,Maharashtra,Single Owner,Not specified
+Hyundai Creta SX,Hyundai,2023,1500000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Venue SX Optional 1.0 DCT Turbo,Hyundai,2023,1250000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Santro Sportz MT,Hyundai,2020,450000,Yamunanagar,Haryana,Single Owner,Not specified
+Maruti Suzuki Swift LXiO 2016 December,Maruti Suzuki,2016,410000,Trivandrum,Kerala,Second Owner,Not specified
+Maruti Suzuki Wagon R Gray,Maruti Suzuki,2025,800000,Bangalore,Karnataka,Single Owner,Not specified
+Kia Sonet Automatic dct,Kia,2020,690000,Faridabad,Haryana,Single Owner,Not specified
+Hyundai  Diesel,Hyundai,2014,450000,Mysore,Karnataka,Single Owner,diesel
+Tata Tiago Xza plus,Tata,2020,487000,Kolkata,West Bengal,Single Owner,Not specified
+Kia Sonet HTK PLUS,Kia,2021,650000,South East Delhi,Delhi,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza LXI,Maruti Suzuki,2020,700000,Dakshina Kannada,Karnataka,Single Owner,Not specified
+Toyota Cresta 2.4 gx manual,Toyota,2018,1420000,Mangalore,Karnataka,Second Owner,Not specified
+Mahindra XUV300 W8 optional,Mahindra,2023,1000000,Ghaziabad,Uttar Pradesh,Single Owner,Not specified
+Skoda Kushaq 2025,Skoda,2025,1470000,Bangalore,Karnataka,Second Owner,Not specified
+Skoda Octavia Style plus 2.0,Skoda,2016,1050000,Vijayawada,Andhra Pradesh,Second Owner,Not specified
+Mahindra Marazzo 2023,Mahindra,2023,1125000,Chennai,Tamil Nadu,Single Owner,Not specified
+Mahindra KUV100 K8,Mahindra,2016,399999,Panchkula,Haryana,Single Owner,Not specified
+Hyundai Elite i20 Credit diesel,Hyundai,2017,520000,Nanded,Maharashtra,Second Owner,diesel
+Chevrolet Sail 1.2LTABS,Chevrolet,2013,225000,Mangalore,Karnataka,Single Owner,Not specified
+Hyundai Venue SX1l turbo,Hyundai,2019,785000,Kangra,Himachal Pradesh,Single Owner,Not specified
+Mahindra Thar LX P AT 4WD 4S HT,Mahindra,2021,1100000,Faridabad,Haryana,Second Owner,Not specified
+Mahindra Bolero BS6,Mahindra,2022,750000,Varanasi,Uttar Pradesh,Single Owner,Not specified
+Hyundai Creta SX 1.5 Petrol Manual,Hyundai,2022,1395000,Chennai,Tamil Nadu,Single Owner,petrol
+Tata Nexon Smart plus,Tata,2024,900000,Hyderabad,Telangana,Single Owner,Not specified
+Renault Triber RXZ Petrol Easy R1 0L,Renault,2022,650000,Pune,Maharashtra,Single Owner,petrol
+Maruti Suzuki Vitara Brezza Zxi PLUS AT SMART HYBRID,Maruti Suzuki,2020,1200000,South Goa,Goa,Second Owner,Not specified
+Tata Nexon XZA Plus (2020-2023),Tata,2020,965000,Hyderabad,Telangana,Single Owner,Not specified
+Hyundai  I20 Active,Hyundai,2015,610000,Pune,Maharashtra,Single Owner,Not specified
+Maruti Suzuki Wagon R VXI BSIII,Maruti Suzuki,2005,135000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Creta SX executive,Hyundai,2022,1000000,Mandi,Himachal Pradesh,Second Owner,Not specified
+Hyundai i10 Magna,Hyundai,2011,130000,Muzaffarpur,Bihar,Single Owner,Not specified
+Skoda Rapid Ambition 1.5 Tdi,Skoda,2017,400000,Ernakulam,Kerala,Second Owner,Not specified
+Kia Sonet HTX DCT,Kia,2023,1150000,Coimbatore,Tamil Nadu,Single Owner,Not specified
+Hyundai Creta 1.4 ex,Hyundai,2019,1125000,Dakshina Kannada,Karnataka,Second Owner,Not specified
+Maruti Suzuki Swift VXi,Maruti Suzuki,2007,75000,Gandhinagar,Gujarat,Single Owner,Not specified
+Maruti Suzuki Ertiga,Maruti Suzuki,2021,1000000,Raigad,Maharashtra,Single Owner,Not specified
+Renault Lodgy Lodgy rxl,Renault,2016,250000,Puri,Odisha,Single Owner,Not specified
+Maruti Suzuki Wagon R,Maruti Suzuki,2020,410000,Rewari,Haryana,Single Owner,Not specified
+Maruti Suzuki Eeco 5,Maruti Suzuki,2022,450000,Hanumangarh,Rajasthan,Single Owner,Not specified
+Mahindra Scorpio S 10,Mahindra,2015,650000,Ambedkar Nagar,Uttar Pradesh,Second Owner,Not specified
+Maruti Suzuki Dzire Tour s cng,Maruti Suzuki,2019,400000,Greater Noida,Uttar Pradesh,Single Owner,Not specified
+Toyota Cresta GX+,Toyota,2017,1600000,Tiruchirappalli,Tamil Nadu,Single Owner,Not specified
+Mahindra XUV 500 W8,Mahindra,2015,1200000,Bangalore,Karnataka,Second Owner,Not specified
+Morris  MG ZS EV Exclusive,Morris,2023,1800000,Vadodara,Gujarat,Single Owner,Not specified
+Mahindra XUV 500 W8,Mahindra,2014,600000,Bangalore,Karnataka,Single Owner,Not specified
+Renault Kwid RXT 1.0,Renault,2023,450000,Lucknow,Uttar Pradesh,Single Owner,Not specified
+BMW X1 SDRIVE 20D WITH AT,BMW,2013,925000,Chhindwara,Madhya Pradesh,Single Owner,Not specified
+Hyundai i10 Grand Asta,Hyundai,2015,310000,Hyderabad,Telangana,Single Owner,Not specified
+MG Astor 2024 super MT,MG,2024,950000,Hisar,Haryana,Second Owner,Not specified
+Hyundai Exter exter 1.2 sx,Hyundai,2025,835000,Mangalore,Karnataka,Single Owner,Not specified
+Mahindra Bolero Bs3,Mahindra,2014,410000,EastChamparan,Bihar,Single Owner,Not specified
+Ford Aspire 1.5 TDCi Titanium,Ford,2015,500000,Bangalore,Karnataka,Single Owner,Not specified
+Kia Carens,Kia,2024,1000000,Hisar,Haryana,Single Owner,Not specified
+Hyundai i10 Sportz,Hyundai,2011,135000,Jabalpur,Madhya Pradesh,Single Owner,Not specified
+Skoda Kushaq Style 1.5TSI DSG,Skoda,2024,1700000,Gurgaon,Haryana,Single Owner,Not specified
+Toyota Innova Zx 7seater,Toyota,2015,700000,Nanded,Maharashtra,Single Owner,Not specified
+Hyundai Verna 1.6 VTVT SXO,Hyundai,2019,800000,Chennai,Tamil Nadu,Single Owner,Not specified
+Hyundai Verna VTVT SX,Hyundai,2015,500000,North Goa,Goa,Second Owner,Not specified
+Maruti Suzuki Ciaz Vxi plus automatic,Maruti Suzuki,2017,480000,Gandhinagar,Gujarat,Second Owner,Not specified
+Honda Amaze S mt,Honda,2023,700000,Bijnor,Uttar Pradesh,Single Owner,Not specified
+Hyundai Exter Sx,Hyundai,2023,860000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki Vitara Brezza Vxi,Maruti Suzuki,2022,750000,Nagpur,Maharashtra,Single Owner,Not specified
+Nissan Terrano 85ps,Nissan,2014,500000,Ernakulam,Kerala,Single Owner,Not specified
+Tata Nexon Creative plus amt,Tata,2024,1300000,Chengalpattu,Tamil Nadu,Single Owner,Not specified
+Ford Figo 1.4 Titanium Diesel,Ford,2012,300000,Bangalore,Karnataka,Single Owner,diesel
+Hyundai Creta 1.6 AT PETROL,Hyundai,2018,700000,Meerut,Uttar Pradesh,Second Owner,petrol
+Maruti Suzuki Wagon R Vxi,Maruti Suzuki,2010,195000,Anantapur,Andhra Pradesh,Single Owner,Not specified
+Hyundai i10 Grand i10 nios sports dual tone,Hyundai,2022,610000,Darjeeling,West Bengal,Single Owner,Not specified
+Kia Sonet Dct,Kia,2024,1150000,Udham Singh Nagar,Uttarakhand,Second Owner,Not specified
+Nissan Magnite XV Turbo,Nissan,2021,650000,Katni,Madhya Pradesh,Single Owner,Not specified
+Kia Carens Premium(O) 7seater Petrol/Cng,Kia,2024,1300000,Bareilly,Uttar Pradesh,Single Owner,petrol
+MG Windsor EV ESSENCE,MG,2025,1494000,Hyderabad,Telangana,Single Owner,Not specified
+Ford Ecosport 1.5 diesel signature,Ford,2019,725000,Dehradun,Uttarakhand,Single Owner,diesel
+Ford Ecosport,Ford,2020,600000,Hooghly,West Bengal,Single Owner,Not specified
+Mahindra XUV 500 Diesel,Mahindra,2013,430000,Srinagar,Jammu & Kashmir,Single Owner,diesel
+Maruti Suzuki 800,Maruti Suzuki,1997,50000,Kolkata,West Bengal,Second Owner,Not specified
+Jeep Compass 1.4 turbo petrol Automatic,Jeep,2021,950000,Mumbai,Maharashtra,Single Owner,petrol
+Mahindra XUV300 W4,Mahindra,2024,1000000,Barabanki,Uttar Pradesh,Single Owner,Not specified
+Tata Harrier 2.0 kRYOTEC XZ PLUS DARK EDITION,Tata,2023,1950000,Dehradun,Uttarakhand,Single Owner,Not specified
+Maruti Suzuki Baleno Sigma 1.3,Maruti Suzuki,2020,435000,Jhalawar,Rajasthan,Single Owner,Not specified
+Maruti Suzuki 800 Du,Maruti Suzuki,2011,110000,Bangalore,Karnataka,Second Owner,Not specified
+Honda City,Honda,2010,200000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai Santro,Hyundai,2003,45000,Vadodara,Gujarat,Single Owner,Not specified
+Mahindra  Maxximo,Mahindra,2010,140000,Sundergarh,Odisha,Single Owner,Not specified
+Mahindra XUV 3XO AX5 Manual Petrol,Mahindra,2025,1100000,Lucknow,Uttar Pradesh,Second Owner,petrol
+Hyundai i10 Asta,Hyundai,2017,365000,Bhubaneshwar,Odisha,Single Owner,Not specified
+Hyundai Eon 2017,Hyundai,2017,180000,Gorakhpur,Uttar Pradesh,Single Owner,Not specified
+Toyota Etios Liva V Diesel,Toyota,2013,235000,Lucknow,Uttar Pradesh,Second Owner,diesel
+Maruti Suzuki Alto 800 LXI,Maruti Suzuki,2018,250000,Karnal,Haryana,Second Owner,Not specified
+Maruti Suzuki Swift VDI,Maruti Suzuki,2016,280000,Amroha,Uttar Pradesh,Second Owner,Not specified
+Tata Nexon Xma,Tata,2023,850000,Kollam,Kerala,Single Owner,Not specified
+Renault Duster RXL,Renault,2017,475000,North West Delhi,Delhi,Second Owner,Not specified
+Tata Safari XZA+,Tata,2021,1500000,Beawar,Rajasthan,Single Owner,Not specified
+Maruti Suzuki Swift Vxi,Maruti Suzuki,2018,500000,South Delhi,Delhi,Single Owner,Not specified
+Hyundai i20 Sports,Hyundai,2024,790000,Bangalore,Karnataka,Single Owner,Not specified
+Audi Q3 Diesel 2.0 manual,Audi,2015,1050000,Ahmedabad,Gujarat,Single Owner,diesel
+Hyundai Elantra Sx At,Hyundai,2015,600000,Palghar,Maharashtra,Single Owner,Not specified
+Jeep Compass Sports,Jeep,2019,899999,Chennai,Tamil Nadu,Single Owner,Not specified
+Mercedes-Benz E-Class 220d,Mercedes-Benz,2023,5300000,Sambalpur,Odisha,Single Owner,Not specified
+Hyundai Eon D LITE PLUS(O),Hyundai,2018,295000,Bangalore,Karnataka,Second Owner,Not specified
+Tata Indigo,Tata,2012,175000,Kurnool,Andhra Pradesh,Single Owner,Not specified
+Honda Amaze 2018,Honda,2018,500000,Noida,Uttar Pradesh,Second Owner,Not specified
+MG ZS EV Exclusive pro,MG,2021,1500000,Kurnool,Andhra Pradesh,Single Owner,Not specified
+Hyundai Creta Sx tech ivt automatic,Hyundai,2024,1900000,Chennai,Tamil Nadu,Single Owner,Not specified
+Tata Indigo Ecs,Tata,2014,125000,Mohali,Punjab,Single Owner,Not specified
+Nissan Magnite Manual,Nissan,2024,550000,Navi Mumbai,Maharashtra,Second Owner,Not specified
+Mahindra XUV300 W8 O,Mahindra,2020,800000,Rohtak,Haryana,Second Owner,Not specified
+Hyundai Creta Sx 1.6 Diesel,Hyundai,2019,900000,Raipur,Chhattisgarh,Single Owner,diesel
+Tata Tigor XM CMG,Tata,2023,500000,Dhenkanal,Odisha,Single Owner,Not specified
+Maruti Suzuki Baleno,Maruti Suzuki,2017,580000,Mysore,Karnataka,Single Owner,Not specified
+Tata Tiago Tata tiago XZ,Tata,2018,425000,Bhopal,Madhya Pradesh,Single Owner,Not specified
+Kia Seltos,Kia,2020,1750000,Salem,Tamil Nadu,Second Owner,Not specified
+Mahindra XUV 500 W8,Mahindra,2014,485000,Valsad,Gujarat,Second Owner,Not specified
+Mahindra Xylo D2,Mahindra,2010,400000,Cuddalore,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Fronx Zeta,Maruti Suzuki,2023,900000,Solapur,Maharashtra,Single Owner,Not specified
+Mahindra Bolero Neo N10 O,Mahindra,2023,1000000,Nashik,Maharashtra,Single Owner,Not specified
+Kia Carens Prestige Plus Diesel,Kia,2022,1100000,Ahmedabad,Gujarat,Second Owner,diesel
+Maruti Suzuki Ritz Vdi,Maruti Suzuki,2010,170000,Jhunjhunu,Rajasthan,Single Owner,Not specified
+Honda Amaze ivtec S,Honda,2013,199999,Mumbai,Maharashtra,Single Owner,Not specified
+Fiat Punto 1.4 emotion,Fiat,2010,120000,Pune,Maharashtra,Single Owner,Not specified
+Tata Indica Qurdrajet,Tata,2010,85000,Indore,Madhya Pradesh,Single Owner,Not specified
+Maruti Suzuki Dzire Vxi,Maruti Suzuki,2019,510000,Mau,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki 800 ALTO 800,Maruti Suzuki,2017,260000,Jaipur,Rajasthan,Second Owner,Not specified
+Mahindra XUV700 Ax5 p 7 seater mt,Mahindra,2022,1250000,Gwalior,Madhya Pradesh,Second Owner,Not specified
+Maruti Suzuki Dzire Vxi,Maruti Suzuki,2020,500000,Bagpat,Uttar Pradesh,Single Owner,Not specified
+Hyundai i20 I20 SPORT MT KIPPA,Hyundai,2023,675000,Bundi,Rajasthan,Second Owner,Not specified
+Volkswagen Taigun Topline,Volkswagen,2022,900000,Pondicherry,Pondicherry,Single Owner,Not specified
+Jeep Compass LONGITUDE 2.0D,Jeep,2018,900000,Bathinda,Punjab,Single Owner,Not specified
+Tata Nexon XZA + petrol Automatic,Tata,2021,750000,Visakhapatnam,Andhra Pradesh,Single Owner,petrol
+Hyundai Elite i20 Asta opt,Hyundai,2017,400000,Una,Himachal Pradesh,Second Owner,Not specified
+Maruti Suzuki Wagon R 2013 Maruti Suzuki Wagon R 1.0 VXI,Maruti Suzuki,2013,250000,Hoshangabad,Madhya Pradesh,Single Owner,Not specified
+Tata Nexon Xza kaziranga,Tata,2022,750000,South 24 Parganas,West Bengal,Single Owner,Not specified
+Maruti Suzuki Baleno ZETA,Maruti Suzuki,2018,580000,Jaipur,Rajasthan,Second Owner,Not specified
+Honda Brio S MT,Honda,2013,160000,South Delhi,Delhi,Second Owner,Not specified
+Renault Kwid Climber AMT 2020 (O) Top Model,Renault,2020,410000,Pune,Maharashtra,Single Owner,Not specified
+Mahindra XUV700 AX5 7 str,Mahindra,2022,1600000,Bangalore,Karnataka,Second Owner,Not specified
+Hyundai Venue VENUE 1.0 TURBO DCT SX(O),Hyundai,2024,1050000,Bhubaneshwar,Odisha,Single Owner,Not specified
+Hyundai i10 Grand i10 2019 magna,Hyundai,2019,350000,Gurgaon,Haryana,Single Owner,Not specified
+Tata Tiago Xza+,Tata,2020,525000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Harrier XT,Tata,2019,825000,Ahmedabad,Gujarat,Single Owner,Not specified
+Citroen C3,Citroen,2022,425000,Pune,Maharashtra,Second Owner,Not specified
+Skoda Superb Sportline Sport line 2.0 AT,Skoda,2020,1850000,Chennai,Tamil Nadu,Single Owner,Not specified
+Maruti Suzuki Dzire VXI AUTOMATIC,Maruti Suzuki,2019,598000,Bangalore,Karnataka,Single Owner,Not specified
+Hyundai i20 Asta Optiona,Hyundai,2021,700000,Devbhoomi Dwarka,Gujarat,Single Owner,Not specified
+Nissan Magnite XV Executive Turbo,Nissan,2022,700000,Ghaziabad,Uttar Pradesh,Single Owner,Not specified
+MG Astor Sharp 1.5 CVT,MG,2022,1400000,Thane,Maharashtra,Single Owner,Not specified
+Renault Duster RXZ DCI,Renault,2013,400000,Bangalore,Karnataka,Single Owner,Not specified
+Maruti Suzuki S-Cross Alpha,Maruti Suzuki,2021,1150000,Hyderabad,Telangana,Single Owner,Not specified
+Tata Indica Vista Ls TDI,Tata,2012,100000,Kurnool,Andhra Pradesh,Second Owner,Not specified
+Hyundai Verna SX 1.5 MPI MT,Hyundai,2021,950000,Kolkata,West Bengal,Second Owner,Not specified
+Mercedes-Benz C-Class,Mercedes-Benz,2014,500000,North Delhi,Delhi,Single Owner,Not specified
+Volkswagen Taigun,Volkswagen,2023,1500000,Ahmedabad,Gujarat,Single Owner,Not specified
+Maruti Suzuki Dzire Vxi Petrol Manual,Maruti Suzuki,2020,630000,Bhopal,Madhya Pradesh,Second Owner,petrol
+Hyundai i20 Sports ABS,Hyundai,2013,325000,Pathankot,Punjab,Single Owner,Not specified
+Fiat Urban Cross Disal,Fiat,2016,270000,Surendranagar,Gujarat,Single Owner,Not specified
+Tata Nexon EV XZ Plus Lux,Tata,2023,1350000,Vadodara,Gujarat,Single Owner,Not specified
+Maruti Suzuki Swift LXI,Maruti Suzuki,2011,140000,Etawah,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki Ciaz Hybrid,Maruti Suzuki,2019,625000,Bangalore,Karnataka,Single Owner,Not specified
+Tata Vista Tech Terra,Tata,2011,110000,Sambalpur,Odisha,Single Owner,Not specified
+Maruti Suzuki Grand Vitara smart hybrid,Maruti Suzuki,2024,1050000,Karimnagar,Telangana,Second Owner,Not specified
+Tata Altroz Xz+ os cng,Tata,2024,850000,Ayodhya,Uttar Pradesh,Single Owner,Not specified
+Maruti Suzuki  Sigma Petrol 1.2 baleno,Maruti Suzuki,2018,360000,Kolkata,West Bengal,Second Owner,petrol
+Renault Triber RXL,Renault,2020,500000,Solapur,Maharashtra,Single Owner,Not specified
