@@ -136,7 +136,10 @@ This analysis shows that price is influenced by ownership, location, brand, and 
 
 ---
 
+## 👨‍💻 Author
 
-# Run notebook
-jupyter notebook
+**Rajeshwar Jadhav**
+(Data Analyst | Power BI | Python | SQL | Python | Advanced Excel | Exploratory Data Analysis | Advance Statistics )
+
+---
 
